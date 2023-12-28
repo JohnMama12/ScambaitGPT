@@ -1,5 +1,5 @@
 from poe_api_wrapper  import PoeApi
-#import transformers to load the model.
+
 import whisper
 import torch
 import os
